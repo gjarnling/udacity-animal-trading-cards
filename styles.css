@@ -1,0 +1,54 @@
+/*******************
+ * Tags
+ *******************/
+ body {
+   background: #f4f4f4;
+   font-family: 'Lato', sans-serif;
+   font-size: 14px;
+ }
+
+h3 {
+  color: rgba(60,60,57,0.87);
+  margin: 1em 0;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+p, li {
+    color: rgba(60,60,57,0.54);
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+img {
+  border-radius: 0.5em;
+  width: 300px;
+}
+
+/*******************
+ * Classes
+ *******************/
+ .card {
+   box-shadow: 0 3px 4px 0 rgba(0, 0, 0, 0.14),
+               0 1px 8px 0 rgba(0, 0, 0, 0.12),
+               0 3px 3px -2px rgba(0, 0, 0, 0.4);
+   background-color: #fafbfc;
+   border: 1px solid rgba(60,60,57,0.27);
+   border-radius: 0.5em;
+   padding: 0 0.8em 0.8em 0.8em;
+   width: 300px;
+ }
+
+ .information {
+   border: 1px solid rgba(60,60,57,0.27);
+   border-radius: 0.5em;
+   margin-top: 0.8em;
+   padding: 0 1em;
+ }
+
+.label {
+  font-weight: bold;
+}
