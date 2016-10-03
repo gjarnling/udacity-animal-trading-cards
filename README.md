@@ -6,3 +6,5 @@ We were given a zip-file containing a HTML-file, a CSS-file, a placeholder image
 
 ## Prerequisites
 The lessons given before the project were 4.5 hours CSS Syntax and a related problem set. Apart from teaching the basics of CSS it gave the student several references for where to find more information regarding what CSS properties etc. to use, for instance [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference).
+
+The course also included a 1 hour course on how to write code faster using the editor of your choice. It focused on [Atom](https://atom.io/) which is the coding editor I use.
