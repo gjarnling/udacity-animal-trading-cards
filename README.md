@@ -10,7 +10,7 @@ The lessons given before the project were 4.5 hours CSS Syntax and a related pro
 The course also included a 1 hour course on how to write code faster using the editor of your choice. It focused on [Atom](https://atom.io/) which is the coding editor I use.
 
 ## Solution
-Used the appropriate CSS rules to style the document and validated it in W3C Validator.
+Used the appropriate CSS rules to style the document and validated it in W3C Validator. You can view it [here](https://gjarnling.github.io/udacity-animal-trading-cards/).
 
 ## Closure
 The solution met the specifications.
