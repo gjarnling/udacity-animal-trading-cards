@@ -9,7 +9,7 @@ The course was 4.5 hours and contained CSS Syntax, a related problem set and a s
 
 ### CSS Syntax
 
-After a short introduction to what [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) is the CSS ruleset was explained. It then described the importance of using [comments](https://en.wikipedia.org/wiki/Comment_(computer_programming) and how to use them in CSS. Thereafter tag [selectors and attributes](https://css-tricks.com/almanac/) were introduced. It then explained how to use [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/) both to debug and insert CSS styles into web sites.
+After a short introduction to what [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) is the CSS ruleset was explained. It then described the importance of using [comments](https://en.wikipedia.org/wiki/Comment_(computer_programming)) and how to use them in CSS. Thereafter tag [selectors and attributes](https://css-tricks.com/almanac/) were introduced. It then explained how to use [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/) both to debug and insert CSS styles into web sites.
 
 It continued with explaining [CSS units](https://developer.mozilla.org/en-US/docs/Web/CSS/length) and different ways to introduce [colors on web sites](https://en.wikipedia.org/wiki/Web_colors#Shorthand_hexadecimal_form), using [hex](https://en.wikipedia.org/wiki/Hexadecimal) and rgb values, how to [convert](http://hex.colorrrs.com/) them as well as [named colors](https://css-tricks.com/snippets/css/named-colors-and-hex-equivalents/). Finally it explained how to use [shorthand properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties).
 
